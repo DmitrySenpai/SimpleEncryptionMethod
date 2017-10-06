@@ -1,2 +1,2 @@
 # SimpleEncryptionMethod
-Simple Encryption Method
+Simple Encryption Method (Dev C++)
